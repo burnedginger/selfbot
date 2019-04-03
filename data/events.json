@@ -1,0 +1,1 @@
+[null,{"name":"bump","temp":"7205","event-type":"3","_id":"yXLQe","actions":[{"info":"0","find":"552297762968829952","storage":"1","varName":"channel","name":"Find Channel"},{"channel":"5","varName":"channel","message":"!disboard bump","storage":"0","varName2":"","name":"Send Message"}]},{"name":"bumpmsg","temp":"","event-type":"0","_id":"yaycH","actions":[]}]
